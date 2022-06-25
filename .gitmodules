@@ -1,0 +1,3 @@
+[submodule "structural_application"]
+	path = structural_application
+	url = https://github.com/vryy/structural_application.git
