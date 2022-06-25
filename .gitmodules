@@ -4,6 +4,3 @@
 [submodule "isogeometric_application"]
 	path = isogeometric_application
 	url = https://github.com/vryy/isogeometric_application.git
-[submodule "finite_cell_application"]
-	path = finite_cell_application
-	url = https://github.com/vryy/finite_cell_application.git
