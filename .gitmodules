@@ -1,3 +1,6 @@
 [submodule "structural_application"]
 	path = structural_application
 	url = https://github.com/vryy/structural_application.git
+[submodule "isogeometric_application"]
+	path = isogeometric_application
+	url = https://github.com/vryy/isogeometric_application.git
