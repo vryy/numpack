@@ -7,3 +7,6 @@
 [submodule "finite_cell_application"]
 	path = finite_cell_application
 	url = https://github.com/vryy/finite_cell_application.git
+[submodule "polyfem_application"]
+	path = polyfem_application
+	url = https://github.com/vryy/polyfem_application.git
